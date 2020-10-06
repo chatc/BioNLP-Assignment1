@@ -1,0 +1,23 @@
+exact match w/o '/' process
+True Positives: 139 False Positives:  39 False Negatives: 73
+Recall:  0.6556603773584906 
+Precision: 0.7808988764044944 
+F1-Score: 0.7128205128205128
+
+exact match
+True Positives: 140 False Positives:  41 False Negatives: 72
+Recall:  0.660377358490566 
+Precision: 0.7734806629834254 
+F1-Score: 0.712468193384224
+
+remove temperature
+True Positives: 139 False Positives:  40 False Negatives: 73
+Recall:  0.6556603773584906 
+Precision: 0.776536312849162 
+F1-Score: 0.710997442455243
+
+add my label
+True Positives: 149 False Positives:  40 False Negatives: 63
+Recall:  0.7028301886792453 
+Precision: 0.7883597883597884 
+F1-Score: 0.743142144638404
